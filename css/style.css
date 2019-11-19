@@ -1,0 +1,42 @@
+body{
+	background: #b9b9b9; margin:0px;
+}
+.box{
+	background: white;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 50px;
+    box-shadow: 0 0 7px #8f8787;
+    text-align: center;
+}
+p{
+	font-size:40px;color: black;
+}
+h1{
+	font-size: 80px;margin-top: 4px
+}
+h2{
+
+font-size: 90px;
+
+color: #4b4b4b;
+
+margin: 0;
+
+text-transform: capitalize;
+}
+h4{
+	font-size:35px
+}
+ 
+span{
+
+}
+ul{
+	font-size: 45px
+}
+.aboutme{
+	text-align: left;
+}
